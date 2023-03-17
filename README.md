@@ -4,3 +4,5 @@ I made the rollno as primary key and type of input is number and for date of bir
 It has three buttons named as Save, Change and Reset so, initially all three buttons are disabled. When the focus is on roll no. and it is not in the record then it will enablesave and reset button. And if roll no. is find the it will enable change and reset button and the roll no. field is disabled.
 
 ![image](https://user-images.githubusercontent.com/128148310/225938754-55a20e2f-c9c8-4784-9bc4-02b6f947e11a.png)
+![image](https://user-images.githubusercontent.com/128148310/225939618-2bd2302c-e9d2-42c0-904f-2ef8cbf5a165.png)
+![image](https://user-images.githubusercontent.com/128148310/225940945-60f15675-7ec9-4773-9a42-c6b26594fbd2.png)
