@@ -15,7 +15,7 @@
            function getEmpIdAsJsonObj(){
             var rollNo=$("#rollNo").val();
             var jsonStr={
-                id:rollNo
+                rollNo:rollNo
             };
             return JSON.stringify(jsonStr);
            }
