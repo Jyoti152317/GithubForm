@@ -37,7 +37,7 @@ It has three buttons named as Save, Change and Reset so, initially all three but
 
 
 # Examples of use
-A vedio from Login2Explore helped me to create this project and used JPDB. And showing some screenshots of the project how it works.
+A video from Login2Explore helped me to create this project and used JPDB. And showing some screenshots of the project how it works.
 
 # Project status
 Working.
